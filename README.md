@@ -4,4 +4,6 @@ This is a quiz maker written in Python that takes questions randomly from a csv 
 
 Run project using:
 
-```python quiz.py``` 
+```
+python quiz.py
+``` 
